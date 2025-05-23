@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/janbierowiec/CISC_5200/Turing_Machine",
+      "program": "/Users/janbierowiec/CISC_5200/Turing_Machine/build/Debug/outDebug"
+    }
+  ]
+}
