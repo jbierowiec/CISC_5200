@@ -18,10 +18,10 @@ For each machine, both a C program and a theoretical explanation in PDF form are
 ```plaintext
 ├── Deterministic_Finite_Automata
 │   ├── DFA.c
-│   ├── DFA.pdf
+│   └── DFA.pdf
 ├── Nondeterministic_Finite_Automata
 │   ├── NFA.c
-│   ├── NFA.pdf
+│   └── NFA.pdf
 ├── Pushdown_Automata
 │   ├── PDA.c
 │   └── PDA.pdf
